@@ -1,7 +1,7 @@
 # jQueryRockScissorsPaperGame
 Rock Scissors Paper Game using jQuery
 
-<img src="./srp/srp.png" width="100px">
+<img src="./SRP/SRP.png">
 
 
 <!DOCTYPE html>
